@@ -1,0 +1,51 @@
+Portfölj simulation med endast forex paren (USDJPY, GBPJPY och USDCHF):
+======================================================================
+SANITY CHECKS
+======================================================================
+Sum PnL_USD: 9276.130632667158
+Equity change: 9276.130632667257
+Diff: -9.822542779147625e-11
+Avg Units: 12052.686172855127
+Median Units: 17304.023150456134
+Avg pips/trade: 230.9223591550836
+Median pips/trade: -22.950000000000525
+
+$ per pip (approx) per market @ avg units (using median Entry Price):
+GBPJPY: 0.0074
+USDCHF: 1.9127
+USDJPY: 1.6193
+Approx $ per pip @ avg units: 0.01098980698983339
+======================================================================
+ PORTFÖLJ-RESULTAT (USD) 
+======================================================================
+Start Capital: 50000.0000
+End Equity: 59276.1306
+Net PnL ($): 9276.1306
+Return (%): 18.5523
+Max Drawdown ($): 2052.9639
+Max Drawdown (%): 3.8339
+Markets: 3
+Trades Closed: 3408
+Days: 5103.0000
+Years: 13.9808
+Sharpe (daily, ann.): 0.5227
+Sortino (daily, ann.): 1.0686
+CAGR (%): 1.2273
+Calmar: 0.3201
+Max DD MTM ($): 5055.9961
+Max DD MTM (%): 8.9493
+Max Intraday DD MTM ($): 4208.2491
+Max Intraday DD MTM (%): 7.4488
+
+Risk contributions:
+GBPJPY 3.5763916478006037e-06
+USDCHF 3.5763916478006092e-06
+USDJPY 3.576391647800609e-06
+RC ratio max/min: 1.0000000000000016
+======================================================================
+ERC WEIGHTS (from equal-weight daily returns)
+======================================================================
+GBPJPY: 0.9861
+USDCHF: 0.0062
+USDJPY: 0.0077
+Sum: 1.0

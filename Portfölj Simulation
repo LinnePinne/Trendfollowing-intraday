@@ -31,3 +31,38 @@ Max DD MTM (%): 10.1956
 Max Intraday DD MTM ($): 4408.7010
 Max Intraday DD MTM (%): 7.4637
 Vi lägger till Nasdaq och DAX40, samt erc beräkning:
+
+======================================================================
+SANITY CHECKS
+======================================================================
+Sum PnL_USD: 19607.305465827136
+Equity change: 19607.305465827027
+Diff: 1.0913936421275139e-10
+
+======================================================================
+ PORTFÖLJ-RESULTAT (USD) 
+======================================================================
+Start Capital: 50000.0000
+End Equity: 69607.3055
+Net PnL ($): 19607.3055
+Return (%): 39.2146
+Max Drawdown ($): 2138.9261
+Max Drawdown (%): 3.7413
+Markets: 5
+Trades Closed: 4707
+Days: 5103.0000
+Years: 13.9808
+Sharpe (daily, ann.): 0.8114
+Sortino (daily, ann.): 1.4166
+CAGR (%): 2.3841
+Calmar: 0.6372
+Max DD MTM ($): 2979.6661
+Max DD MTM (%): 5.3697
+Max Intraday DD MTM ($): 2582.5436
+Max Intraday DD MTM (%): 4.6540
+
+--- MTM / INTRADAY DD ---
+Max DD MTM ($): 2979.6661
+Max DD MTM (%): 5.3697
+Max Intraday DD MTM ($): 2582.5436
+Max Intraday DD MTM (%): 4.6540
